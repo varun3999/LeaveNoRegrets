@@ -32,7 +32,7 @@ plugins:
 
 defaults:
   - scope:
-      path: "Assets/img"
+      path: "assets/img"
     values:
       image: true
 
